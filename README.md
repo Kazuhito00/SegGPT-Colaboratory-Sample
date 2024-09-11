@@ -4,8 +4,7 @@ Colaboratory上で[SegGPT](https://github.com/baaivision/Painter/tree/main/SegGP
 https://github.com/user-attachments/assets/382baa56-3f62-4a6a-9907-29cf40defce3
 
 # Usage
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/SegGPT-Colaboratory-Sample
-/blob/main/SegGPT-Colaboratory-Sample.ipynb)<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/SegGPT-Colaboratory-Sample/blob/main/SegGPT-Colaboratory-Sample.ipynb)<br>
 Colaboratoryでノートブックを開き、上から順に実行してください。
 
 # License 
