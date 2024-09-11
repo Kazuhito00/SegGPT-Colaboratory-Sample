@@ -10,7 +10,7 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 # License 
 CoLIE-Colaboratory-Sample is under [MIT license](LICENSE).
 
-# License(Image, Video)
+# License(Image)
 サンプル実行用に格納している画像などは以下を利用しています。
 * [ぱくたそ](https://www.pakutaso.com)様：[スマホを手に取る新入社員](https://www.pakutaso.com/20240453094post-42819.html)
 * [ぱくたそ](https://www.pakutaso.com)様：[笑顔でスマホを見る新入社員](https://www.pakutaso.com/20240413115post-42818.html)
